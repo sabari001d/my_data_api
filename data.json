@@ -1,0 +1,36 @@
+{
+    "name": "Sabarinathan",
+    "title": "Full Stack Developer",
+    "projects": [
+        {
+            "name": "Project A",
+            "description": "A web app for task management.",
+            "link": "https://project-a.example.com",
+            "technologies": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ]
+        },
+        {
+            "name": "Project B",
+            "description": "An e-commerce platform.",
+            "link": "https://project-b.example.com",
+            "technologies": [
+                "Angular",
+                "Firebase"
+            ]
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "Python",
+        "React",
+        "Node.js"
+    ],
+    "contact": {
+        "email": "john.doe@example.com",
+        "linkedin": "https://linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe"
+    }
+}
