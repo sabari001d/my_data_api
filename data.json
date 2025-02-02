@@ -1,36 +1,168 @@
 {
-    "name": "Sabarinathan",
+    "name": "Sabarinathan D",
     "title": "Full Stack Developer",
+    "summary": "Passionate Full Stack Developer with expertise in Java, Spring Boot, React, PHP (CodeIgniter), and MySQL. Experienced in developing scalable web and mobile applications. A sports enthusiast and district-level cricket champion.",
     "projects": [
         {
-            "name": "Project A",
-            "description": "A web app for task management.",
-            "link": "https://project-a.example.com",
+            "name": "User Details Management Full Stack",
+            "description": "A full-stack application to manage user details with CRUD operations.",
+            "link": "https://github.com/sabari05d/User-Details-Management-Full-Stack",
             "technologies": [
                 "React",
-                "Node.js",
-                "MongoDB"
+                "Java",
+                "Spring Boot"
             ]
         },
         {
-            "name": "Project B",
-            "description": "An e-commerce platform.",
-            "link": "https://project-b.example.com",
+            "name": "Quotes Display App",
+            "description": "An application that displays random quotes to inspire users.",
+            "link": "https://github.com/sabari05d/Quotes_Display_App",
             "technologies": [
-                "Angular",
-                "Firebase"
+                "React"
+            ]
+        },
+        {
+            "name": "Recipe Finder App",
+            "description": "An app to search and display recipes based on user input.",
+            "link": "https://github.com/sabari05d/recipe_finder_app",
+            "technologies": [
+                "React"
+            ]
+        },
+        {
+            "name": "Merchant Product Demo App",
+            "description": "A demo application showcasing merchant products with detailed views.",
+            "link": "https://github.com/sabari05d/Merchant-Product-Demo-App",
+            "technologies": [
+                "React",
+                "Java",
+                "Spring Boot"
+            ]
+        },
+        {
+            "name": "Image Gallery with Filtering",
+            "description": "An interactive image gallery with category-based filtering.",
+            "link": "https://github.com/sabari05d/Image-Gallery-Filtering",
+            "technologies": [
+                "React"
+            ]
+        },
+        {
+            "name": "Todo List App",
+            "description": "A simple and intuitive todo list application to manage daily tasks.",
+            "link": "https://github.com/sabari05d/Todo_List_App",
+            "technologies": [
+                "React"
+            ]
+        },
+        {
+            "name": "Personal Portfolio",
+            "description": "A personal portfolio website showcasing projects and skills.",
+            "link": "https://github.com/sabari05d/personal-portfolio",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
             ]
         }
     ],
     "skills": [
+        "HTML",
+        "CSS",
         "JavaScript",
-        "Python",
         "React",
-        "Node.js"
+        "Bootstrap",
+        "Java",
+        "Spring Boot",
+        "PHP",
+        "CodeIgniter",
+        "MySQL",
+        "AWS (Cloud Foundations)"
+    ],
+    "experience": [
+        {
+            "company": "SalesQueen Software Solutions",
+            "role": "Frontend Intern",
+            "duration": "May 2024 - Aug 2024",
+            "description": "Worked on frontend development using HTML, CSS, JavaScript, and Bootstrap. Collaborated on website projects to enhance UI/UX and responsiveness."
+        },
+        {
+            "company": "SalesQueen Software Solutions",
+            "role": "Backend Intern",
+            "duration": "Sep 2024 - Dec 2024",
+            "description": "Focused on backend development with PHP and MySQL using CodeIgniter framework. Implemented secure database management and API integrations."
+        },
+        {
+            "company": "SalesQueen Software Solutions",
+            "role": "Full Stack Developer",
+            "duration": "Jan 2025 - Present",
+            "description": "Transitioned to a full-time role as a Full Stack Developer, building scalable web applications and handling both frontend and backend tasks."
+        }
+    ],
+    "education": {
+        "degree": "Diploma in Electronics and Communication Engineering",
+        "status": "Completed"
+    },
+    "achievements": [
+        "Won District-level cricket championship",
+        "Secured 3rd place in State-level cricket tournament"
+    ],
+    "interests": [
+        "Software Development",
+        "Cricket",
+        "Athletics"
     ],
     "contact": {
-        "email": "john.doe@example.com",
-        "linkedin": "https://linkedin.com/in/johndoe",
-        "github": "https://github.com/johndoe"
+        "email": "nsabarinanthan.in@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/sabarinathan-d",
+        "github": "https://github.com/sabari05d",
+        "portfolio": "https://sabarinathand.netlify.app/"
+    },
+    "landing_page": {
+        "title": "Hi, I'm Sabarinathan D!",
+        "subtitle": "A passionate Full Stack Developer crafting scalable web and mobile applications.",
+        "description": "With expertise in Java, Spring Boot, PHP (CodeIgniter), React, and MySQL, I build seamless digital experiences. Whether it's designing sleek frontends, architecting powerful backends, or optimizing database performance, I thrive on turning ideas into reality.",
+        "highlights": [
+            "Innovative Thinker",
+            "Problem Solver",
+            "Tech Enthusiast"
+        ],
+        "cta": {
+            "contact": "#contact",
+            "projects": "#projects"
+        }
+    },
+    "about_page": {
+        "title": "Who Am I?",
+        "description": "I'm Sabarinathan D, a Full Stack Developer with a strong foundation in Java, Spring Boot, PHP, MySQL, and React. My journey in tech started with my first line of code, and since then, I’ve been passionate about solving complex problems and building impactful applications.",
+        "specialization": "I specialize in developing secure and scalable applications, from e-commerce platforms to data-driven web solutions. My recent work includes backend security enhancements, real-time applications, and cloud integrations.",
+        "experience": [
+            {
+                "role": "Frontend Intern",
+                "company": "SalesQueen Software Solutions",
+                "duration": "May 2024 - Aug 2024"
+            },
+            {
+                "role": "Backend Intern",
+                "company": "SalesQueen Software Solutions",
+                "duration": "Sep 2024 - Dec 2024"
+            },
+            {
+                "role": "Full Stack Developer",
+                "company": "SalesQueen Software Solutions",
+                "duration": "Jan 2025 - Present"
+            }
+        ],
+        "achievements": [
+            "Won District-level cricket championship",
+            "Secured 3rd place in State-level cricket tournament"
+        ],
+        "motivations": [
+            "Building Scalable Web Apps",
+            "Exploring New Technologies",
+            "Learning & Sharing Knowledge",
+            "Fitness & Personal Growth"
+        ],
+        "cta": "Let’s connect and create something incredible! 🚀"
     }
 }
